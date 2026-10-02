@@ -6,11 +6,11 @@
 Email Me 👉 ✉️ **hiteshambaliya2062004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: Bcak-end Api 
-- 🌱 **I’m currently learning:** Node.js || DSA using C++
+<!-- 🌱 **I’m currently learning:** Node.js || DSA using C++ -->
 <!-- 👯 **I’m looking to collaborate on:** Enter your project name and info-->
 <!-- 🤔 **I’m looking for help with:** Your project here  -->
-- 💬 **Ask me about:** Collaboration, Back-end
-- 📫 **How to reach me:** hahir3980@gmail.com
+- 💬 **Ask me about:** Collaboration, 
+- 📫 **How to reach me:** hiteshambaliya2062004@gmail.com
 - 😄 **Pronouns:** Hitesh 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
